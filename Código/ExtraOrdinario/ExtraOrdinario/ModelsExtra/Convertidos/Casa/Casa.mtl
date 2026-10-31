@@ -1,0 +1,41 @@
+# Convertido de House by Quaternius - oJJIRwv6Bo.glb
+
+newmtl mat0
+Kd 0.438538 0.099921 0.058856
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat1
+Kd 0.435217 0.438538 0.382624
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat2
+Kd 0.244364 0.246189 0.215451
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat3
+Kd 0.246187 0.144359 0.053798
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat4
+Kd 0.375745 0.243188 0.097461
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2

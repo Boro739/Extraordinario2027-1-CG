@@ -1,0 +1,57 @@
+# Convertido de Locomotive Passenger Carriage by Quaternius - woQPFlzPHM.glb
+
+newmtl mat0
+Kd 0.021767 0.021767 0.021767
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat1
+Kd 0.020314 0.017159 0.018518
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat2
+Kd 0.166327 0.118619 0.079868
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat3
+Kd 0.125943 0.032397 0.025178
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat4
+Kd 0.093634 0.098966 0.069560
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat5
+Kd 0.066037 0.069710 0.049414
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat6
+Kd 0.130111 0.130111 0.130111
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2

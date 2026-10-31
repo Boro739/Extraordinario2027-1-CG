@@ -1,0 +1,17 @@
+# Convertido de Goal Flag by Quaternius - onAi7dx56P.glb
+
+newmtl mat0
+Kd 0.143087 0.143087 0.143087
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat1
+Kd 0.254828 0.009138 0.004816
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2

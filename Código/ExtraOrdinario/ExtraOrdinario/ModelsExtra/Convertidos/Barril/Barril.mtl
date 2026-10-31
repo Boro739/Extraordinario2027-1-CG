@@ -1,0 +1,25 @@
+# Convertido de Barrel by Quaternius - zjCQP1TAci.glb
+
+newmtl mat0
+Kd 0.069710 0.032237 0.012080
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat1
+Kd 0.122341 0.054783 0.019326
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+
+newmtl mat2
+Kd 0.077633 0.081879 0.095419
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2

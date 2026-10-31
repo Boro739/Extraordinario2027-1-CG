@@ -1,0 +1,37 @@
+# Materiales del piso: pasto, agua, arena y tierra
+
+newmtl Pasto
+Ns 10.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+d 1.000000
+illum 2
+map_Kd pasto.jpg
+
+newmtl Agua
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+d 1.000000
+illum 2
+map_Kd agua.jpg
+
+newmtl Arena
+Ns 10.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+d 1.000000
+illum 2
+map_Kd arena.jpg
+
+newmtl Tierra
+Ns 10.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.100000 0.100000 0.100000
+d 1.000000
+illum 2
+map_Kd tierra.jpg

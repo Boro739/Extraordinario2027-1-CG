@@ -1,0 +1,10 @@
+# Convertido de Cannon by Quaternius - J15vlPVvKK.glb
+
+newmtl mat0
+Kd 1.000000 1.000000 1.000000
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+map_Kd Canon_tex0.png

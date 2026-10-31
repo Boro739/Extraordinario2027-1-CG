@@ -1,0 +1,10 @@
+# Archivos temporales de Visual Studio y compilaciones
+.vs/
+**/Debug/
+**/x64/
+*.ipch
+*.VC.db
+*.user
+# La carpeta Release del proyecto es salida de compilacion (la de GLEW es una libreria y si se sube)
+Código/ExtraOrdinario/Release/
+Código/ExtraOrdinario/ExtraOrdinario/Release/

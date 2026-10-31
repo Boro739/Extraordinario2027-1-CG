@@ -1,0 +1,10 @@
+# Convertido de Rifle by CreativeTrio - zBATGslN2h.glb
+
+newmtl mat0
+Kd 1.000000 1.000000 1.000000
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 10
+d 1
+illum 2
+map_Kd Rifle_tex0.jpg
